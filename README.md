@@ -50,4 +50,4 @@ Este proyecto consiste en una herramienta de Análisis Exploratorio de Datos (ED
 - **Preferencias de Mercado:** Las carrocerías tipo SUV y Sedán dominan el volumen de anuncios, pero las categorías de camionetas (trucks) mantienen un valor residual más alto.
 - **Impacto de la Condición:** La diferencia de precio promedio entre un vehículo en estado "excelente" frente a uno "bueno" es del 32.85%.
 
--[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/luis-hervis/ProyectoSprint7.git)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/luis-hervis/ProyectoSprint7.git)
