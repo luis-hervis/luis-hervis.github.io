@@ -25,6 +25,8 @@ Soy un profesional en el mundo de los datos que combina una sólida experiencia 
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
+# ⚙️ Proyectos
+
 # 🚗 Análisis del Mercado de Vehículos Usados
 *Desarrollo de una aplicación web interactiva para la exploración de datos automotrices.*
 
