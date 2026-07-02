@@ -53,3 +53,38 @@ Este proyecto consiste en una herramienta de Análisis Exploratorio de Datos (ED
 - **Impacto de la Condición:** La diferencia de precio promedio entre un vehículo en estado "excelente" frente a uno "bueno" es del 32.85%.
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/luis-hervis/ProyectoSprint7.git)
+
+# 🎮 Análisis de Ventas de Videojuegos para la Tienda Ice
+Minería de datos y análisis predictivo de éxito comercial en la industria del gaming.
+
+## 📖 Resumen del Proyecto
+Este proyecto se centra en el procesamiento y análisis de un conjunto de datos históricos que contiene registros de ventas, plataformas, calificaciones de expertos y usuarios, y géneros de videojuegos hasta el año 2016. El objetivo principal es limpiar, estructurar y explorar estos datos para identificar los patrones que determinan si un videojuego tiene éxito comercial o no, permitiendo así detectar proyectos prometedores y planificar campañas publicitarias efectivas para el año 2017.
+
+## 🎯 Objetivos Clave
+Auditoría y Limpieza de Datos: Tratar valores ausentes, estandarizar nombres de columnas, corregir tipos de datos (como años de lanzamiento) y gestionar de forma analítica valores nulos y anómalos como la etiqueta "tbd" (to be determined) en las calificaciones.
+
+Ingeniería de Características: Manipular los datos para crear nuevas métricas clave, como la suma de las ventas totales globales combinando regiones (Norteamérica, Europa, Japón y otros) para evaluar el impacto real de cada título.
+
+Análisis de Comportamiento del Mercado: Descubrir métricas vitales como la evolución histórica de lanzamientos, el ciclo de vida de las plataformas para filtrar datos obsoletos, y la distribución estadística de las ventas.
+
+## 🛠️ Stack Tecnológico
+Lenguaje: Python
+
+Manipulación y Cruce de Datos: Pandas, NumPy
+
+Visualización Analítica: Matplotlib, Seaborn
+
+Análisis Estadístico: SciPy, Math
+
+Entorno de Desarrollo: Jupyter Notebook / Anaconda
+
+## 🔍 Hallazgos Principales
+Evolución del Mercado: Se detectó que el mayor volumen histórico de lanzamientos ocurrió entre 2008 y 2010, seguido de una tendencia a la baja debido a los mayores tiempos de desarrollo y la diversificación hacia el mercado móvil.
+
+Ciclo de Vida de Plataformas: Se identificó que las plataformas tienen una vida útil y un ecosistema que se vuelve obsoleto con el tiempo. Esto justificó descartar datos anteriores a 1994 (y enfocar el modelo final en años recientes) para evitar "ruido" al predecir el comportamiento de 2017.
+
+Regionalización estricta:
+    * Si la campaña se enfoca en occidente (**Europa y Norteamérica**), la estrategia es agresiva: **Juegos "M" (Mature), de Acción y Shooters para PS4 y Xbox One**. Esta combinación es una fórmula prácticamente probada para generar la máxima facturación.
+    * Si el foco es **Japón**, debemos dar un giro de 180° e invertir pulicidad en **Juegos de Rol (RPG) para la Nintendo 3DS** (o sucesoras).
+
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/luis-hervis/Proyecto_Venta_Videojuegos.git)
