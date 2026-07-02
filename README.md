@@ -88,3 +88,7 @@ Análisis de Comportamiento del Mercado: Descubrir métricas vitales como la evo
   - Si el foco es **Japón**, debemos dar un giro de 180° e invertir pulicidad en **Juegos de Rol (RPG) para la Nintendo 3DS** (o sucesoras).
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/luis-hervis/Proyecto_Venta_Videojuegos.git)
+
+## 📫 Conectemos
+- **LinkedIn:** [Luis Hervis](https://www.linkedin.com/in/luis-hervis/)
+- **Email:** [luis.a.hervis@outlook.com]
