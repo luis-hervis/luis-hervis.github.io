@@ -91,4 +91,4 @@ Análisis de Comportamiento del Mercado: Descubrir métricas vitales como la evo
 
 ## 📫 Conectemos
 - **LinkedIn:** [Luis Hervis](https://www.linkedin.com/in/luis-hervis/)
-- **Email:** [luis.a.hervis@outlook.com]
+- **Email:** luis.a.hervis@outlook.com
