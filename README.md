@@ -68,23 +68,23 @@ Ingeniería de Características: Manipular los datos para crear nuevas métricas
 Análisis de Comportamiento del Mercado: Descubrir métricas vitales como la evolución histórica de lanzamientos, el ciclo de vida de las plataformas para filtrar datos obsoletos, y la distribución estadística de las ventas.
 
 ## 🛠️ Stack Tecnológico
-Lenguaje: Python
+- **Lenguaje:** Python
 
-Manipulación y Cruce de Datos: Pandas, NumPy
+- **Manipulación y Cruce de Datos:** Pandas, NumPy
 
-Visualización Analítica: Matplotlib, Seaborn
+- **Visualización Analítica:** Matplotlib, Seaborn
 
-Análisis Estadístico: SciPy, Math
+- **Análisis Estadístico:** SciPy, Math
 
-Entorno de Desarrollo: Jupyter Notebook / Anaconda
+- **Entorno de Desarrollo:** Jupyter Notebook / Anaconda
 
 ## 🔍 Hallazgos Principales
-Evolución del Mercado: Se detectó que el mayor volumen histórico de lanzamientos ocurrió entre 2008 y 2010, seguido de una tendencia a la baja debido a los mayores tiempos de desarrollo y la diversificación hacia el mercado móvil.
+- **Evolución del Mercado:** Se detectó que el mayor volumen histórico de lanzamientos ocurrió entre 2008 y 2010, seguido de una tendencia a la baja debido a los mayores tiempos de desarrollo y la diversificación hacia el mercado móvil.
 
-Ciclo de Vida de Plataformas: Se identificó que las plataformas tienen una vida útil y un ecosistema que se vuelve obsoleto con el tiempo. Esto justificó descartar datos anteriores a 1994 (y enfocar el modelo final en años recientes) para evitar "ruido" al predecir el comportamiento de 2017.
+- **Ciclo de Vida de Plataformas:** Se identificó que las plataformas tienen una vida útil y un ecosistema que se vuelve obsoleto con el tiempo. Esto justificó descartar datos anteriores a 1994 (y enfocar el modelo final en años recientes) para evitar "ruido" al predecir el comportamiento de 2017.
 
-Regionalización estricta:
-    * Si la campaña se enfoca en occidente (**Europa y Norteamérica**), la estrategia es agresiva: **Juegos "M" (Mature), de Acción y Shooters para PS4 y Xbox One**. Esta combinación es una fórmula prácticamente probada para generar la máxima facturación.
-    * Si el foco es **Japón**, debemos dar un giro de 180° e invertir pulicidad en **Juegos de Rol (RPG) para la Nintendo 3DS** (o sucesoras).
+- **Regionalización estricta:**
+- Si la campaña se enfoca en occidente (**Europa y Norteamérica**), la estrategia es agresiva: **Juegos "M" (Mature), de Acción y Shooters para PS4 y Xbox One**. Esta combinación es una fórmula prácticamente probada para generar la máxima facturación.
+- Si el foco es **Japón**, debemos dar un giro de 180° e invertir pulicidad en **Juegos de Rol (RPG) para la Nintendo 3DS** (o sucesoras).
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/luis-hervis/Proyecto_Venta_Videojuegos.git)
